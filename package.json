@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/adillenseger/example3/issues"
   },
-  "homepage": "https://github.com/adillenseger/example3#readme"
+  "homepage": "https://github.com/adillenseger/example3#readme",
+  "type":"module"
 }
